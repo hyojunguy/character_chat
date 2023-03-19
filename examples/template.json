@@ -1,37 +1,35 @@
 {
-"title": "대화 제목",
-"speaker1": "당신의 이름",
-"speaker2": "봇의 이름",
-"story": "캐릭터 설정(외모, 성격, 취미, 지식 수준, 당신과의 관계, 말투, 대사 예 등), 당신 자신의 프로필, 스토리(세계관, 대화 상황, 장소, 시간대) 등을 500자 정도로 작성해주세요.",
-"examples": [
-[
-"speaker1(당신)의 대사",
-"speaker1(당신)의 행동",
-"speaker2(봇)의 이해(speaker1의 대사, 행동을 어떻게 이해했는지)",
-"speaker2(봇)의 사고(이해를 바탕으로 무엇을 느꼈으며, 무엇을 하려고 생각했는지)",
-"speaker2(봇)의 행동(사고의 결과, 어떤 행동을 했는지)",
-"speaker2(봇)의 대사(사고의 결과, 최종적으로 무엇을 발언했는지)"
-]
-],
-"oldConversations": [
-{
-"summary": "대화 요약.",
-"thought": "speaker2(봇)이 그 대화에서 생각한 것의 요약.",
-"conversations": [
-[
-"speaker1(당신)의 대사",
-"speaker1(당신)의 행동",
-"speaker2(봇)의 이해",
-"speaker2(봇)의 사고",
-"speaker2(봇)의 행동",
-"speaker2(봇)의 대사"
-]
-]
-}
-],
-"conversations": [
-
-]
-
-
+   "title":"대화 제목",
+   "speaker1":"당신의 이름",
+   "speaker2":"봇의 이름",
+   "story":"캐릭터 설정(외모, 성격, 취미, 지식 수준, 당신과의 관계, 말투, 대사 예 등), 당신 자신의 프로필, 스토리(세계관, 대화 상황, 장소, 시간대) 등을 500자 정도로 작성해주세요.",
+   "examples":[
+      [
+         "speaker1(당신)의 대사",
+         "speaker1(당신)의 행동",
+         "speaker2(봇)의 이해(speaker1의 대사, 행동을 어떻게 이해했는지)",
+         "speaker2(봇)의 사고(이해를 바탕으로 무엇을 느꼈으며, 무엇을 하려고 생각했는지)",
+         "speaker2(봇)의 행동(사고의 결과, 어떤 행동을 했는지)",
+         "speaker2(봇)의 대사(사고의 결과, 최종적으로 무엇을 발언했는지)"
+      ]
+   ],
+   "oldConversations":[
+      {
+         "summary":"대화 요약.",
+         "thought":"speaker2(봇)이 그 대화에서 생각한 것의 요약.",
+         "conversations":[
+            [
+               "speaker1(당신)의 대사",
+               "speaker1(당신)의 행동",
+               "speaker2(봇)의 이해",
+               "speaker2(봇)의 사고",
+               "speaker2(봇)의 행동",
+               "speaker2(봇)의 대사"
+            ]
+         ]
+      }
+   ],
+   "conversations":[
+      
+   ]
 }
